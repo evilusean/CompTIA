@@ -1,0 +1,368 @@
+Date Started=25June2023
+Links:
+https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/
+https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/
+========================================================================================================================================================================
+68 Videos – Total Run Time: 9 hours, 36 minutes
+Section 0: The CompTIA A+ Exams
+0.1 – The 220-1101 and 220-1102 A+ Exams
+
+How to Pass Your 220-1101 and 220-1102 A+ Exams (11:25)
+The CompTIA A+ certification is one of the most popular in the world. In this video, you’ll learn about the exam format, topics, and tips that can help you pass this 
+important industry exam.
+
+Section 1: Mobile Devices
+1.1 – Laptop Hardware
+
+Laptop Hardware (17:19)
+We rely on our laptops to provide powerful computing technologies in a battery-powered mobile package. In this video, you’ll learn about laptop hardware, 
+storage options, biometric integrations, and an overview of converting from traditional hard drives to high-speed SSD technology.
+
+1.2 – Laptop Displays
+
+Laptop Displays (8:53)
+The display on a laptop is an important output device, but it can also be a useful input device as well. In this video, you’ll learn about LCD display types, 
+backlights, Wi-Fi antennas, digitizers, and more.
+
+1.3 – Mobile Device Configuration
+
+Connecting Mobile Devices (6:28)
+There are many ways to connect a mobile device with computers, headphones, and speakers. In this video, you’ll learn about USB connections, serial interfaces, NFC,
+Bluetooth, and more.
+
+
+Mobile Device Accessories (9:04)
+We can often add features and capabilities to our mobile devices through the use of accessories. In this video, you’ll learn about touch pens, active styluses,
+trackpads, headsets, speakers, and more.
+
+1.4 – Mobile Device Connectivity
+
+Cellular Standards (7:26)
+Our cellular networks have seen significant change, and improvements to voice and data access have continuously improved over time. In this video, you’ll learn
+about GSM, CDMA, 3G, 4G, and 5G technologies.
+
+
+Mobile Device Connectivity (6:55)
+There are many different connectivity options used for the management and control of our mobile devices. In this video, you’ll learn about Bluetooth pairing, 
+Global Positioning System, and Mobile Device Management.
+
+
+Mobile Device Configurations (4:01)
+There are many options for configuring email and cloud access on a mobile device. In this video, you’ll learn about configuring Microsoft 365, iCloud connectivity, 
+and synchronizing data.
+
+Section 2: Networking
+2.1 – Ports and Protocols
+
+Introduction to IP (18:48)
+The Internet Protocol is one of the most popular protocols in the world. In this video, you’ll learn how IP, TCP, UDP, and port numbers are used to transfer 
+information over our modern networks.
+
+
+Common Network Ports (13:18)
+We use port numbers to differentiate between applications as they traverse the network. In this video, you’ll learn which port numbers are used by some of the most 
+popular protocols.
+
+2.2 – Network Devices
+
+Network Devices (18:45)
+It takes more than a single router or access point to operate an enterprise network. In this video, you’ll learn about switches, routers, patch panels, PoE, and more.
+
+
+Software Defined Networking (4:38)
+We have extended the functionality of physical networking devices into cloud-based infrastructures. In this video, you’ll learn about the structure and usability of 
+software defined networking.
+
+2.3 – Wireless Networks
+
+Wireless Network Standards (17:08)
+We use many different types of wireless networks every day. In this video, you’ll learn about the 802.11 standards, the use of long-range fixed wireless, RFID, and NFC 
+technologies.
+
+
+Wireless Network Technologies (4:38)
+There are many different technologies used to support our wireless network connections. In this video, you’ll learn about frequency use, channel designations, 
+regulations, band selections, and Bluetooth connectivity.
+
+2.4 – Network Services
+
+Network Services (17:11)
+It takes many different services to keep a data center running. In this video, you’ll learn about services supporting, DNS, DHCP, printing, email, and more.
+
+2.5 – Network Configurations
+
+IPv4 and IPv6 (6:58)
+Every device on the network is configured with an IP address. In this video, you’ll learn about IPv4 and IPv6 addressing and the settings for configuring IPv4 on a 
+device.
+
+
+Assigning IP Addresses (9:44)
+Most of us receive an IP address automatically when we start our computer. In this video, you’ll learn about automatic IP address assignments and what happens when 
+a DHCP server isn’t available.
+
+2.6 – Network Connections
+
+DNS Configuration (12:29)
+We often take the DNS resolution process for granted. In this video, you’ll get an insight into what happens behind the scenes when resolving an IP address and how 
+the DNS server configuration is used during the resolution process.
+
+
+DHCP Configuration (8:58)
+The DHCP process is critical for managing IP addresses on your network. In this video, you’ll learn about DHCP scopes, pools, address assignments, leases, and the
+DHCP renewal timers.
+
+
+VLANs and VPNs (5:31)
+Whether you are communicating locally or across long distances, there are network technologies that can get your data to the right place. In this video, you’ll 
+learn about the use of VLANs on local networks and how VPNs can be used to protect all network flows.
+
+2.7 – Internet Connections
+
+Internet Connection Types (6:32)
+We can connect to the Internet using many different technologies. In this video, you’ll learn about satellite networking, fiber, cable broadband, DSL, and more.
+
+
+Network Types (4:24)
+We use broad categorizations to describe the scope and geography used by our network links. In this video, you’ll learn about LANs, WANs, PANs, MANs, and more.
+
+2.8 – Network Tools
+
+Network Tools (10:58)
+A good technician will have the right tool for any circumstance. In this video, you’ll learn about cable crimpers, WiFi analyzers, tone generators, cable testers,
+and more.
+
+Section 3: Hardware
+3.1 – Cables and Adapters
+
+Network Cables (8:51)
+Our network cables are the foundation of any wired connection. In this video, you’ll learn about twisted pair cable categories, coaxial cable, cable shielding,
+direct burial cable, and more.
+
+
+Optical Fiber (4:19)
+We rely on fiber optics to connect our high-speed and high-bandwidth network links. In this video, you’ll learn about the construction of a fiber optic cable and 
+how multimode and single-mode cables are used on today’s networks.
+
+
+568A and 568B Colors (5:45)
+Our networks use a standard coloring scheme to ensure compatibility across any device or network connection. In this video, you’ll learn about the colors used in 
+the T568A and T568B standards.
+
+
+Peripheral Cables (7:57)
+USB isn’t the only way to connect our peripherals. In this video, you’ll learn about the many USB standards, Thunderbolt connections, and legacy serial console cables.
+
+
+Video Cables (5:19)
+There’s more than one way to connect a video output device. In this video, you’ll learn about VGA, HDMI, DisplayPort, and DVI cables.
+
+
+SATA Device Cables (4:32)
+The SATA standard can be used to connect both internal and external storage devices. In this video, you’ll learn about the interfaces and cables used for both SATA and
+eSATA links.
+
+
+SCSI Device Cables (8:34)
+SCSI has been an industry standard for decades. In this video, you’ll learn to recognize SCSI cables and the difference between SCSI connections over parallel and
+serial links.
+
+
+PATA Device Cables (4:31)
+PATA is a common storage drive connection type on many legacy computers. In this video, you’ll learn about the PATA connector, storage drive connections, and the
+differences between a PATA and SATA data cables.
+
+
+Adapters and Converters (4:07)
+We don’t always have the right cable for the job. In this video, you’ll learn how adapters and converters can be used to switch between video and data connections 
+on our desktop and mobile devices.
+
+
+Copper Connectors (6:42)
+Many of our device connectors are made over copper cables. In this video, you’ll learn about RJ11, RJ45, USB, Lightning, and other copper connector types.
+
+
+Fiber Connectors (1:42)
+Many of our device connectors are made over copper cables. In this video, you’ll learn about RJ11, RJ45, USB, Lightning, and other copper connector types.
+
+3.2 – Memory
+
+An Overview of Memory (7:01)
+Memory is a critical resource for our computing devices. In this video, you’ll learn about DIMM sizes, SDRAM, DDR data transfers, and DDR3, DDR4, and DDR5 RAM.
+
+
+Memory Technologies (5:22)
+Our system RAM can provide a number of different features. In this video, you’ll learn about virtual memory, multi-channel memory, parity memory, and error correcting
+code (ECC) memory.
+
+3.3 – Storage Devices
+
+Storage Devices (11:17)
+There are many ways to store and access files on our computing devices. In this video, you’ll learn about hard drives, solid state drives, flash memory, and 
+optical drives.
+
+
+RAID (6:45)
+We rely on our storage devices for access to our most important documents. In this video, you’ll learn how RAID can be used to maintain the uptime and availability 
+of our data when a drive fails.
+
+3.4 – Motherboards
+
+Motherboard Form Factors (5:25)
+The form factor of a computer can have a significant impact to configuration options and future upgradability. In this video, you’ll learn about motherboard form 
+factors and the differences between the ATX and ITX motherboard families.
+
+
+Motherboard Expansion Slots (6:57)
+If you want to add features to your computing platform, it’s common to use the built-in expansion slots. In this video, you’ll learn how to use expansion slots to 
+upgrade and enhance your personal computer.
+
+
+Motherboard Connectors (6:32)
+Our motherboards provide connection and communication between many different components. In this video, you’ll learn about main power connectors, 4-pin ATX power
+connectors, SATA connectors, and pin headers.
+
+
+Motherboard Compatibility (6:08)
+A mobile device uses a very different motherboard than our desktop computers. In this video, you’ll learn about CPU options and compatibilities between server,
+desktop, and laptop computers.
+
+
+The BIOS (4:00)
+The BIOS manages the startup process for our computer systems. In this video, you’ll learn about the fundamentals of a legacy BIOS and a UEFI BIOS.
+
+
+BIOS Settings (14:57)
+The BIOS configuration contains extensive customization features for your computer. In this video, you’ll learn about starting the BIOS, configuring boot options,
+disabling USB interfaces, managing fans, and enabling security options in the BIOS.
+
+
+CPU Features (6:44)
+A computer’s CPU does much more than calculate mathematical equations. In this video, you’ll learn about 32-bit vs. 64-bit CPUs, processor cores, multithreading, 
+and virtualization support in your CPU.
+
+
+Expansion Cards (8:28)
+The expansion slots in our computers provide us with almost unlimited upgrade options. In this video, you’ll learn about audio cards, graphics processors, 
+network interfaces, and other options.
+
+
+Cooling (8:09)
+Our computer systems create heat, so it’s important to properly cool our PCs. In this video, you’ll learn about air cooling, passive cooling with heat sinks, 
+liquid cooling, and more.
+
+3.5 – Power
+
+Computer Power (14:50)
+A power supply is a critical component on every computer. In this video, you’ll learn about power specifications, recognizing power connectors, and how to size 
+a power supply.
+
+3.6 – Multifunction Devices
+
+Multifunction Devices (12:03)
+A multifunction device can provide printed output, page scanning, faxing, and more. In this video, you’ll learn how to connect, share, and secure output sent
+to a multifunction device.
+
+3.7 – Printers
+
+Laser Printers (9:51)
+A laser printer provides high resolution output using charged toner particles. In this video, you’ll learn how these printer components work together to complete
+the laser printing process.
+
+
+Laser Printer Maintenance (5:13)
+It’s important to maintain a laser printer to ensure peak performance. In this video, you’ll learn about replacing toner cartridges, using maintenance kits, 
+and calibrating and cleaning the laser printer.
+
+
+Inkjet Printers (4:13)
+An inkjet printer combines high-resolution color output with a relatively simple printing process. In this video, you’ll learn about inkjet printers, ink cartridges, 
+feed rollers, printer calibration, and other inkjet printer topics.
+
+
+Inkjet Printer Maintenance (3:34)
+There are a number of important tasks associated with maintaining an inkjet printer. In this video, you’ll learn about cleaning print heads, replacing 
+inkjet cartridges, and calibrating an inkjet printer.
+
+
+Thermal Printers (2:44)
+Thermal printers are popular output devices for retail receipts and other temporary prints. In this video, you’ll learn about thermal printers, feed assemblies,
+heating elements, and thermal paper.
+
+
+Thermal Printer Maintenance (2:57)
+The maintenance tasks for a thermal printer are relatively straightforward when compared with other printer types. In this video, you’ll learn about thermal 
+paper replacement, cleaning the heating element, removing debris, and the sensitivity of thermal paper to heat sources.
+
+
+Impact Printers (4:56)
+Dot-matrix printers are one of the most common impact printer types. In this video, you’ll learn about the dot-matrix printer head, the printer ribbon, and
+using tractor-feed paper on a dot-matrix printer.
+
+
+Impact Printer Maintenance (2:45)
+Some simple maintenance steps can keep your impact printer in peak operating condition. In this video, you’ll learn about replacing a ribbon, dot-matrix 
+print head replacement, and replacing the continuously-fed printer paper.
+
+
+3D Printers (5:11)
+3D printers can provide rapid prototyping and object creation. In this video, you’ll learn about filament printing, resin printing, and the print bed of a 3D printer.
+
+Section 4: Virtualization and Cloud Computing
+4.1 – Cloud Computing
+
+Cloud Models (8:51)
+There are many different ways to deploy an application in the cloud. In this video, you’ll learn about Infrastructure as a Service (IaaS), Software as a 
+Service (SaaS), and Platform as a Service (PaaS).
+
+
+Cloud Characteristics (6:07)
+A cloud-based service is more than just a remote computing device. In this video, you’ll learn about shared resources, metered services, rapid elasticity, 
+high availability, and more.
+
+4.2 – Client-side Virtualization
+
+Client-side Virtualization (10:51)
+Running multiple operating systems on a single desktop system has become relatively commonplace. In this video, you’ll learn about client-side virtualization 
+and the steps required to run, secure, and network virtual machines.
+
+Section 5: Hardware and Network Troubleshooting
+5.1 – Troubleshooting
+
+How to Troubleshoot (9:15)
+A technician will often be in the position of solving new and unexpected problems. In this video, you’ll learn how to methodically follow a troubleshooting 
+process to resolve any issue.
+
+5.2 – Troubleshooting Computer Hardware
+
+Troubleshooting Common Hardware Problems (23:31)
+There are often common problems found when troubleshooting hardware issues. In this video, you’ll learn how to troubleshoot common hardware problems such as 
+startup errors, Windows stop errors, power issues, overheating, and much more.
+
+5.3 – Troubleshooting Storage
+
+Troubleshooting Storage Devices (10:41)
+We rely on our storage devices for the safety and availability of our operating systems and data. In this video, you’ll learn how to troubleshoot storage 
+devices with boot failures, data corruption, RAID recovery options, and more.
+
+5.4 – Troubleshooting Displays
+
+Troubleshooting Video and Display Issues (11:38)
+Display problems can bring all work to a grinding halt. In this video, you’ll learn how to troubleshoot bad displays, image quality issues, LCD projectors, 
+and much more.
+
+5.5 – Troubleshooting Mobile Devices
+
+Troubleshooting Mobile Devices (14:08)
+We rely on our mobile devices for instant information. In this video, you’ll learn about troubleshooting poor battery life, broken screens, poor connectivity, and more.
+
+5.6 – Troubleshooting Printers
+
+Troubleshooting Printers (11:06)
+It can be challenging to troubleshoot the various types of modern printers. In this video, you’ll learn about testing the printer, resolving bad output, 
+color calibration, and more.
+
+5.7 – Troubleshooting Networks
+
+Troubleshooting Networks (11:44)
+Our wired and wireless networks include many network devices. In this video, you’ll learn how to troubleshoot connectivity issues, understand the signal 
+to noise ratio, manage latency, and more.
